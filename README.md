@@ -31,6 +31,19 @@ We then applied Graph Neural Networks (GCNs) to model spatial relationships and 
 - **PyTorch Geometric**, **scikit-learn**, **Seaborn**, **Matplotlib**
 
 ---
+## 📁 Repository Structure
+
+AIML-Spatial-Transcriptomics-Cancer/
+├── notebooks/
+│ └── spatial_transcriptomics_analysis.ipynb
+├── data/
+│ └── [link or placeholder for dataset]
+├── results/
+│ └── [output images, model predictions, graphs]
+├── requirements.txt
+├── README.md
+└── LICENSE
+
 🤖 Model Highlights
 Autoencoder: Dimensionality reduction for image patch features
 GCN Model: Graph-based reasoning using neighborhood gene expression and image embeddings
