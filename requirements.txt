@@ -1,0 +1,16 @@
+opencv-python
+numpy
+albumentations
+Pillow
+tensorflow
+scikit-learn
+matplotlib
+seaborn
+pandas
+anndata
+scanpy
+torch
+torch-geometric
+h5py
+mygene
+scipy
