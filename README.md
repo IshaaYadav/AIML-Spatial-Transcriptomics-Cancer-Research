@@ -38,9 +38,9 @@ GCN Model: Graph-based reasoning using neighborhood gene expression and image em
 ---
 
 📈 Results
-results/Augmented_image.png
+![Augmented Image](results/Augmented_image.png)
 Binary classification of tumor vs. normal spatial regions
-results/tumorVSnormal_final_output.png
+![Tumor VS Normal](results/tumorVSnormal_final_output.png)
 Feature visualization using UMAP/t-SNE
 Spatial heatmaps of expression and clustering results
 📌 Graphs and outputs are saved in the /results folder.
